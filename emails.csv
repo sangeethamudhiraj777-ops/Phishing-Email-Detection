@@ -1,0 +1,21 @@
+text,label
+"Congratulations! You have won $1000. Click here now.",phishing
+"Your account has been suspended. Verify immediately.",phishing
+"Update your bank details using this link.",phishing
+"Claim your free gift card today.",phishing
+"Urgent action required. Login now.",phishing
+"Click the link below to verify your account.",phishing
+"You are selected as a lucky winner.",phishing
+"Reset your password immediately.",phishing
+"Your PayPal account requires verification.",phishing
+"Free vacation package waiting for you.",phishing
+"Meeting scheduled tomorrow at 10 AM.",safe
+"Please find attached project report.",safe
+"Let's have lunch this afternoon.",safe
+"Thank you for your application.",safe
+"Your order has been shipped successfully.",safe
+"Project discussion moved to Monday.",safe
+"Team meeting starts at 2 PM.",safe
+"Can you send the assignment file?",safe
+"Invoice attached for your review.",safe
+"Looking forward to seeing you tomorrow.",safe
